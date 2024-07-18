@@ -60,8 +60,8 @@ nextbuild/static/css/24b9c9ca986bf78e.css
 nextbuild/static/css/69f81e06845cd7ae.css
 nextbuild/static/css/b36f3adc7d9a8318.css
 nextbuild/static/css/55278fc833c7a365.css
-nextbuild/static/hmTlPosHs1oedRSmC0nuL/_ssgManifest.js
-nextbuild/static/hmTlPosHs1oedRSmC0nuL/_buildManifest.js
+nextbuild/static/iBMuVuZlIKU8wnLJuPbh2/_ssgManifest.js
+nextbuild/static/iBMuVuZlIKU8wnLJuPbh2/_buildManifest.js
 nextbuild/server/server-reference-manifest.js
 nextbuild/server/chunks/682.js
 nextbuild/server/chunks/194.js
