@@ -1,12 +1,12 @@
 {
   "/_not-found/page": "app/_not-found/page.js",
   "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/cource-details/page": "app/cource-details/page.js",
-  "/cources/page": "app/cources/page.js",
-  "/page": "app/page.js",
-  "/team-details/page": "app/team-details/page.js",
-  "/team/page": "app/team/page.js",
   "/[...not-found]/page": "app/[...not-found]/page.js",
+  "/cource-details/page": "app/cource-details/page.js",
   "/about/page": "app/about/page.js",
-  "/contact/page": "app/contact/page.js"
+  "/cources/page": "app/cources/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/team/page": "app/team/page.js",
+  "/page": "app/page.js",
+  "/team-details/page": "app/team-details/page.js"
 }
